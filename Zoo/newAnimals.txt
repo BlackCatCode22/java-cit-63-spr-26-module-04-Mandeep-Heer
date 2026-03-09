@@ -1,0 +1,39 @@
+--- Zoo Population Report ---
+Hyena Habitat:
+Name: Hyena Names:, Age: 4, Species: Hyena
+Hyena Habitat:
+Name: Shenzi, Banzai, Ed, Zig, Bud, Lou, Kamari, Wema, Nne, Madoa, Prince Nevarah, Age: 12, Species: Hyena
+Hyena Habitat:
+Name: Lion Names:, Age: 4, Species: Hyena
+Hyena Habitat:
+Name: Scar, Mufasa, Simba, Kiara, King, Drooper, Kimba, Nala, Leo, Samson, Elsa, Cecil, Age: 8, Species: Hyena
+Lion Habitat:
+Name: Bear Names:, Age: 6, Species: Lion
+Lion Habitat:
+Name: Yogi, Smokey, Paddington, Lippy, Bungle, Baloo, Rupert, Winnie the Pooh, Snuggles, Bert, Age: 12, Species: Lion
+Lion Habitat:
+Name: Tiger Names:, Age: 22, Species: Lion
+Lion Habitat:
+Name: Tony, Tigger, Amber, Cosimia, Cuddles, Dave, Jiba, Rajah, Rayas, Ryker, Age: 4, Species: Lion
+Tiger Habitat:
+Name: Unknown, Age: 2, Species: Tiger
+Tiger Habitat:
+Name: Unknown, Age: 4, Species: Tiger
+Tiger Habitat:
+Name: Unknown, Age: 18, Species: Tiger
+Tiger Habitat:
+Name: Unknown, Age: 3, Species: Tiger
+Bear Habitat:
+Name: Unknown, Age: 7, Species: Bear
+Bear Habitat:
+Name: Unknown, Age: 25, Species: Bear
+Bear Habitat:
+Name: Unknown, Age: 4, Species: Bear
+Bear Habitat:
+Name: Unknown, Age: 4, Species: Bear
+
+--- Total Species Counts ---
+hyena: 4
+bear: 4
+tiger: 4
+lion: 4
